@@ -1,0 +1,8 @@
+.git/
+.env.template
+__pycache__/
+venv/
+.idea
+README.md
+.gitignore
+.dockerignore
